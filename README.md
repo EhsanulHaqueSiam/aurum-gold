@@ -2,7 +2,7 @@
 
 > **Where Gold Becomes Art** — A photo-forward, editorial-grade jewellery shopping experience built for conversion.
 
-[![Live Demo](https://img.shields.io/badge/Live-aurumgold.netlify.app-C9A050?style=for-the-badge&logo=netlify&logoColor=white)](https://aurumgold.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live-theaurum.netlify.app-C9A050?style=for-the-badge&logo=netlify&logoColor=white)](https://theaurum.netlify.app)
 [![Built With](https://img.shields.io/badge/Built_With-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 
@@ -312,5 +312,5 @@ This project is for portfolio and educational purposes.
 <p align="center">
   <strong>AURUM</strong> — Where Gold Becomes Art
   <br/>
-  <a href="https://aurumgold.netlify.app">aurumgold.netlify.app</a>
+  <a href="https://theaurum.netlify.app">theaurum.netlify.app</a>
 </p>
